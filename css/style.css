@@ -1,0 +1,30 @@
+/* Regole generali */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.red {
+    color:  red;
+}
+
+.blue {
+    color:  blue;
+}
+
+.background{
+    background-image: url("../img/duck-seamless-pattern-vector-rubber-ducky-isolated-cartoon-illustration-bird-bath-shower-repeat-wallpaper-tile-background-gift-136436961.jpg");
+    height: 100vh;
+}
+
+.flexClass{
+    display: flex;
+    justify-content: center;
+}
+
+.tColor{
+    font-size: 100px;
+    color: rgb(107, 55, 55);
+    background-color: orange;
+}
